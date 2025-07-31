@@ -1,1 +1,3 @@
-# Videocaptioning
+                                                                                                      Introduction
+                                                                                                      
+This repository presents VideoCaptionGen, a robust solution for automatically generating descriptive captions for video content. Leveraging the power of deep learning, this project aims to bridge the gap between visual and linguistic understanding, making video content more accessible and searchable. Whether you're looking to create subtitles for educational videos, improve SEO for your video platform, or enhance accessibility for individuals with hearing impairments, VideoCaptionGen offers an efficient and scalable approach.
